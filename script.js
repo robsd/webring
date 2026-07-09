@@ -10,7 +10,7 @@ fetch("links.json")
       const next = ring[(i + 1) % ring.length];
 
       document.getElementById("webring").innerHTML = `
-        <p>Part of <a href="https://robsd.github.io/webring">RD's Webring</a> :)
+        <p>Part of <a href="https://robsd.github.io/webring">RD's Webring</a> 😎</p>
         <nav>
           <a href="${prev}">← Prev</a> |
           <a href="${random}">Random</a> |

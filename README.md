@@ -12,3 +12,4 @@
 
 - Your site must be online most of the time
 - Your site must display the widget (steps 1 and 2)
+- Questionable sites will not be accepted

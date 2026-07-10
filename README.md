@@ -10,8 +10,6 @@
 
 ## Rules
 
-- No porn
-- No politics
-- No nasty stuff
 - Your site must be online most of the time
 - Your site must display the widget (steps 1 and 2)
+- Only SFW sites will be accepted

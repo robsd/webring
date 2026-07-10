@@ -1,4 +1,6 @@
-fetch("links.json")
+const host = "https://webring.rdhosted.com";
+
+fetch(host + "/links.json")
   .then(response => response.json())
   .then(ring => {
     const current = location.origin;
@@ -10,7 +12,7 @@ fetch("links.json")
       const next = ring[(i + 1) % ring.length];
 
       document.getElementById("webring").innerHTML = `
-        <p>Part of <a href="https://robsd.github.io/webring">RD's Webring</a> 😎</p>
+        <p>Part of <a href="${host}">RD's Webring</a> 😎</p>
         <nav>
           <a href="${prev}">← Prev</a> |
           <a href="${random}">Random</a> |

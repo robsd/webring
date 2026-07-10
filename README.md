@@ -3,7 +3,7 @@
 ## How to Join
 
  1. Add `<div id="webring"></div>` to your homepage.
- 2. Add `<script src="https://robsd.github.io/webring/script.js"></script>` somewhere below it.
+ 2. Add `<script src="https://webring.rdhosted.com/script.js"></script>` somewhere below it.
  3. Add your domain to [links](https://github.com/robsd/webring/blob/main/links.json) and submit a PR.
 
 [See Example](example.html)

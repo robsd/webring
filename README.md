@@ -6,8 +6,6 @@
  2. Add `<script src="https://webring.rdhosted.com/script.js"></script>` somewhere below it.
  3. Add your site link to [links](https://github.com/robsd/webring/blob/main/links.json) and submit a PR.
 
-[See Example](example.html)
-
 ## Rules
 
 - Your site must be online most of the time.
